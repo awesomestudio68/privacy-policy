@@ -1,4 +1,5 @@
 CHÍNH SÁCH QUYỀN RIÊNG TƯ (English version below)
+
 Cập nhật lần cuối: 6/5/2025
 
 Chúng tôi tôn trọng quyền riêng tư của người dùng. Ứng dụng này không thu thập thông tin cá nhân định danh như tên, địa chỉ email hoặc số điện thoại. Tuy nhiên, chúng tôi có thể thu thập một số dữ liệu phi cá nhân nhằm cải thiện chất lượng dịch vụ.
@@ -17,6 +18,7 @@ Chúng tôi có thể sử dụng các dịch vụ sau:
   - ID thiết bị
   - Địa chỉ IP rút gọn
   - Sự kiện sử dụng trong ứng dụng
+
 Chúng tôi không thu thập dữ liệu cá nhân định danh trực tiếp.
 
 3. Bảo mật dữ liệu
@@ -32,6 +34,7 @@ Nếu bạn có bất kỳ câu hỏi nào liên quan đến chính sách quyề
 ---
 
 PRIVACY POLICY
+
 Last updated: May 6, 2025
 
 We respect your privacy. This app does not collect personally identifiable information such as your name, email, or phone number. However, we may collect non-personal data to improve service quality.
@@ -50,6 +53,7 @@ We may use:
   - Device ID
   - Shortened IP address
   - In-app event usage
+
 We do not collect personally identifiable information.
 
 3. Data Security
