@@ -18,8 +18,7 @@ Chúng tôi có thể sử dụng các dịch vụ sau:
   - ID thiết bị
   - Địa chỉ IP rút gọn
   - Sự kiện sử dụng trong ứng dụng
-
-Chúng tôi không thu thập dữ liệu cá nhân định danh trực tiếp.
+  - Chúng tôi không thu thập dữ liệu cá nhân định danh trực tiếp
 
 3. Bảo mật dữ liệu
 Chúng tôi không lưu trữ dữ liệu người dùng trên máy chủ riêng. Mọi dữ liệu được xử lý bởi các dịch vụ đáng tin cậy như Google và tuân theo chính sách bảo mật của họ.
@@ -53,8 +52,7 @@ We may use:
   - Device ID
   - Shortened IP address
   - In-app event usage
-
-We do not collect personally identifiable information.
+  - We do not collect personally identifiable information
 
 3. Data Security
 We do not store user data on private servers. All data is processed through trusted platforms such as Google under their own privacy policies.
