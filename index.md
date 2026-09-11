@@ -4,7 +4,7 @@
 
 ## Developer and Owner
 
-**Developer:** Awesome Studio 68
+**Developer:** Awesome Studio 68</br>
 **Owner:** NGUYỄN THANH PHƯƠNG
 
 This Privacy Policy applies to the following applications developed and published by Awesome Studio 68:
@@ -109,7 +109,7 @@ If you have any questions, concerns, or requests regarding this Privacy Policy, 
 
 ## Nhà phát triển và Chủ sở hữu
 
-**Nhà phát triển:** Awesome Studio 68
+**Nhà phát triển:** Awesome Studio 68</br>
 **Chủ sở hữu:** NGUYỄN THANH PHƯƠNG
 
 Chính sách Quyền riêng tư này áp dụng cho các ứng dụng sau do Awesome Studio 68 phát triển và phát hành:
